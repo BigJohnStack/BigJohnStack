@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm BigJohn  
+### Full-Stack Developer | Open-Source Enthusiast  
 
-<!--
-**BigJohnStack/BigJohnStack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Currently learning **TypeScript** and **Next.js**  
+- 💻 Passionate about creating clean, scalable software  
+- 📫 Reach me at: [+2348112291541](mailto:johnagboola73@gmail.com)  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Languages:** PHP, JavaScript, Python  
+- **Frameworks:** Laravel, Node.js (React), Tensorflow  
+- **Tools:** Git, Docker, AWS, Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![BigJohn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BigJohn&show_icons=true&theme=radical)
+
+---
