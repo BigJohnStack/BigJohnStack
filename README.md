@@ -1,4 +1,4 @@
-# 👋 Hi, I'm BigJohn  
+# 👋 Hi, I'm Agboola John Babatunde (a.k.a BigJohn)  
 ### Full-Stack Developer | Open-Source Enthusiast  
 
 - 🌱 Currently learning **TypeScript** and **Next.js**  
