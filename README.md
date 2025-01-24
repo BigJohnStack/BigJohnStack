@@ -3,7 +3,7 @@
 
 - 🌱 Currently learning **TypeScript** and **Next.js**  
 - 💻 Passionate about creating clean, scalable software  
-- 📫 Reach me at: [+2348112291541] (mailto:johnagboola73@gmail.com)  
+- 📫 Reach me at: [+2349014639260] (mailto:johnagboola73@gmail.com)  
 
 ## 🚀 Skills
 - **Languages:** PHP, JavaScript, Python  
