@@ -13,7 +13,7 @@ I’m currently a **Fullstack Software Developer at Davak Consult** and a **Chie
 I love **tinkering with AI and IoT**. With AI, I work with **machine learning, deep learning, natural language processing (NLP), computer vision, and generative AI, exploring frameworks like TensorFlow, PyTorch, and Hugging Face Transformers.** With IoT, I enjoy working with **Arduino, Particle Photon, Raspberry Pi**, and more.  
 
 ## 📂 What You’ll Find Here  
-- **Source code** for my technology publications and YouTube videos.  
+- **Source code** for my technology publications and YouTube videos at [bigjohncodes](https://m.youtube.com/@bigjohncodes)
 - **Code samples** from my blog posts and published articles.
 - **Web, Mobile And Desktop Application Projects** created with PHP, Laravel, React, Vue, Angular, React Native, Java, flutter and many more.
 - **IoT projects** for Arduino (and variants like Adafruit Feather, ESP32, M5Stack, Particle Photon, etc.), Raspberry Pi, Tessell 2, and more.
